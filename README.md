@@ -1,6 +1,7 @@
 # o11v4
 o11 streamer
 
+git clone https://github.com/107t5/o11v4
 cd o11-v4
 
 sudo docker build -t o11-v4 .
